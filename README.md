@@ -91,7 +91,6 @@
 ![Axios](https://img.shields.io/badge/Axios-5A29E4.svg?&style=for-the-badge&logo=Axios&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?&style=for-the-badge&logo=TailwindCSS&logoColor=white)
 ![PostCSS](https://img.shields.io/badge/PostCSS-DD3A0A.svg?&style=for-the-badge&logo=PostCSS&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699.svg?&style=for-the-badge&logo=Sass&logoColor=white)
 ![Autoprefixer](https://img.shields.io/badge/Autoprefixer-DD3735.svg?&style=for-the-badge&logo=Autoprefixer&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white)
 ![OpenVidu](https://img.shields.io/badge/Openvidu-05D261.svg?&style=for-the-badge)
